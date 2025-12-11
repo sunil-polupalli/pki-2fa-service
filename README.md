@@ -1,8 +1,3 @@
-Here is the complete, professional **`README.md`** file for your project.
-
-**Action:** Create a file named `README.md` in your VS Code project folder, copy the code block below, and paste it in.
-
-
 # 🚀 Scalable Social Media Feed API
 
 ![Node.js](https://img.shields.io/badge/Node.js-v14+-green?style=flat&logo=node.js)
@@ -192,6 +187,4 @@ REDIS_URL=redis://localhost:6379
 
 -----
 
-### Author
 
-Developed as part of the Backend Architecture Task.
